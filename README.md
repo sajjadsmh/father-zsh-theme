@@ -1,6 +1,10 @@
 # father-zsh-theme
 a Simple Theme for Your Father
 
+![](assets/fzt.png)
+
+# Installation
+
 ## Oh My Zsh
 
 1. Download this ```fzt.zsh-theme``` into `$ZSH/themes` (by default `~/.oh-my-zsh/themes`)
