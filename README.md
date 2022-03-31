@@ -20,3 +20,10 @@ a Simple Theme for Your Father
     ```
 
 3. Start a new terminal session.
+4. or
+    ```sh
+    source ~/.zshrc
+    ```
+    
+5. Enjoy :)
+    
