@@ -6,7 +6,7 @@ a Simple Theme for Your Father
 1. Clone this ```fzt.zsh-theme``` into `$ZSH/themes` (by default `~/.oh-my-zsh/themes`)
 
     ```sh
-    curl https://raw.githubusercontent.com/sajjadsmh/father-zsh-theme/master/fzt.zsh-theme -o $ZSH/themes
+    curl https://raw.githubusercontent.com/sajjadsmh/father-zsh-theme/master/fzt.zsh-theme -o $ZSH/themes/fzt.zsh-theme
     ```
 
 2. Add the theme to Oh My Zsh to load (inside `~/.zshrc`):
